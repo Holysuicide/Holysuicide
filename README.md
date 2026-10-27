@@ -12,15 +12,13 @@ width="700"
 <img width="735" height="498" alt="image" src="https://github.com/user-attachments/assets/e883b7dc-1083-45f7-bf48-af98bf91eebd" />
 
 
-<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/eecc997c-3895-447a-9998-6b757ad3cf5e" />
-<img width="828" height="716" alt="image" src="https://github.com/user-attachments/assets/eb0edcaa-5b02-40cf-8e9b-2cba233ad12d" />
+<img width="563" height="492" alt="image" src="https://github.com/user-attachments/assets/aae6a197-59db-4de4-b623-807016af290c" />
 
 
 
-<img width="735" height="479" alt="255b22f8f0e0e87f8304b588a70b0c98" src="https://github.com/user-attachments/assets/53028a1d-cdb0-4660-89cf-a9a0b252191a" />
+<img width="735" height="679" alt="image" src="https://github.com/user-attachments/assets/a9a653d5-fac9-48b1-9b80-dba2fdaeda17" />
 
-
-
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/5db06062-e077-41f6-b478-7b2b6f28fca0" />
 
 
 **Just Bull and Shit in this readme**
