@@ -21,7 +21,8 @@ width="700"
 
 
 
-<img width="498" height="281" alt="tenor" src="https://github.com/user-attachments/assets/3fe5a41f-f22b-4a3c-aac4-26ef4ef9f57f" />
+<img width="316" height="259" alt="42ee3a6c10e0b53042650efad9f183e4" src="https://github.com/user-attachments/assets/a562b4a3-d3e7-4fea-bd3d-1330724a541a" />
+
 
 <img width="264" height="498" alt="d1da692a156d9ab931768f662cfd6a78" src="https://github.com/user-attachments/assets/519c9c15-63cc-40db-bc5d-e61a3bcc1715" />
 
